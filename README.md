@@ -1,4 +1,4 @@
-# Gossip Network Simulation
+# Gossip Network Modeler
 
 Allows modeling of gossip networks and obtaining various metrics associated with a gossip network with given parameters. As examples, we demonstrate experiments to get (a) the shortest path length for messages to reach randomly chosen destinations on a randomly generated network and (b) the average path length for messages sent in parallel to reach ⅔ of the nodes in a randomly generated network.
 
