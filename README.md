@@ -3,10 +3,10 @@
 Allows modeling of gossip networks and obtaining various metrics associated with a gossip network with given parameters. As examples, we demonstrate experiments to get (a) the shortest path length for messages to reach randomly chosen destinations on a randomly generated network and (b) the average path length for messages sent in parallel to reach ⅔ of the nodes in a randomly generated network.
 
 # Table Of Contents
-[How To Run](#how-to-run)
-Sample results
-[Shortest Path Time in a Network](#shortest-path-time-in-a-network)
-[Average time required for messages to reach ⅔ of the nodes](#Average time-required-for-messages-to-reach-⅔-of-the-nodes)
+1. [How To Run](#how-to-run)
+2. Sample results
+    - [Shortest Path Time in a Network](#shortest-path-time-in-a-network)
+    - [Average time required for messages to reach ⅔ of the nodes](#average-time-required-for-messages-to-reach-⅔-of-the-nodes)
 
 # How to Run
 
