@@ -32,7 +32,7 @@ Use the helper script to generate the experimental results described later in th
 
 Usage:
 `./run_experiment.sh`
-Will generate a log file `log.txt` with all the data required to plot the graphs above. Vary M, N, ds, de, and size as needed
+Will generate a log file `log.txt` with all the data required to plot the graphs below. Vary M, N, ds, de, and size as needed
 
 List of scripts used to plot graphs below:
 
