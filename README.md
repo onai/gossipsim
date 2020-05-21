@@ -17,15 +17,16 @@ To obtain results for an instance of a network, run `sim.py` as follows.
 
 Usage:
 `python sim.py <M> <N> <size> <ds> <de>`
-M -  Number of desired nodes from source to destination (Length of path)
 
-N - Number of entrypoints in the graph
+`M` -  Number of desired nodes from source to destination (Length of path)
 
-size - Number of nodes in the graph
+`N` - Number of entrypoints in the graph
 
-ds - Minimum degree of graph
+`size` - Number of nodes in the graph
 
-de - Maximum degree of graph
+`ds` - Minimum degree of graph
+
+`de` - Maximum degree of graph
 
 Use the helper script to generate the experimental results described later in this README, as follows.
 
