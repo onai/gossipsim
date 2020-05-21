@@ -34,9 +34,13 @@ Usage:
 Will generate a log file `log.txt` with all the data required to plot the graphs above. Vary M, N, ds, de, and size as needed
 
 List of scripts used to plot graphs below:
+
 `plot_m_avgd_sp.py` - Fig. 1
+
 `plot_n_avgd_23.py` - Fig. 2
+
 `plot_n_23.py` - Fig. 3
+
 `plot_avg_23.py` - Fig. 4
 
 # Sample results
