@@ -4,9 +4,9 @@ Allows modeling of gossip networks and obtaining various metrics associated with
 
 # Table Of Contents
 1. [How To Run](#how-to-run)
-2. Sample results
+2. Sample results(#sample-results)
     - [Shortest Path Time in a Network](#shortest-path-time-in-a-network)
-    - [Average time required for messages to reach ⅔ of the nodes](#average-time-required-for-messages-to-reach-⅔-of-the-nodes)
+    - [Average time required for messages to reach ⅔ of the nodes](#average-time-required-for-messages-to-reach--of-the-nodes)
 
 # How to Run
 
