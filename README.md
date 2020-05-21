@@ -81,7 +81,10 @@ Figure 4: Effects of average degree on the time to reach ⅔ network propagation
 
 
 
-References
+# References
+
 [1] Demers, Alan; Greene, Dan; Hauser, Carl; Irish, Wes; Larson, John; Shenker, Scott; Sturgis, Howard; Swinehart, Dan; Terry, Doug (1987-01-01). Epidemic Algorithms for Replicated Database Maintenance. Proceedings of the Sixth Annual ACM Symposium on Principles of Distributed Computing. PODC '87. New York, NY, USA: ACM. pp. 1–12. doi:10.1145/41840.41841. ISBN 978-0897912396.
+
 [2] https://en.wikipedia.org/wiki/Gossip_protocol
+
 [3] https://en.wikipedia.org/wiki/Mix_network
