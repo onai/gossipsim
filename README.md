@@ -50,7 +50,9 @@ First we consider the time required to send a message to a specific number of ra
 To compute this, we first find the average all pairs shortest path length, which gives us the average time for one hop and then multiply that average by M, where M is the number of nodes in the desired path. We considered M values ranging from 2 to 5.
 
 Figure 1 shows a plot of the path time compared against graph size, M, and average degree of the graph. Notice that the shortest time path does not vary significantly with the average degree. However, it does vary with higher average degrees than are shown in this plot, for example degrees greater than 100 per node (not shown for scaling reasons). As might be expected, M has the largest impact on message travel times.
-Figure 1: Plot of shortest path time compared against graph size, M and average degree
+
+![Figure1](images/image4.png)
+<p align="center"> Figure 1: Plot of shortest path time compared against graph size, M and average degree </p>
 
 
 ## Average time required for messages to reach ⅔ of the nodes
@@ -64,22 +66,22 @@ To compute the time, our program follows the following procedure. After randomly
 Figure 2 shows a plot of this propagation time compared to graph size, N, and average degree. Just as with the shortest time analysis, we noticed that the shortest time path does not vary at low degrees, but there is a difference between a degree of, say, 10, and 200 (Figure 4).
 
 
-
-Figure 2: Plot of ⅔ network propagation compared against graph size, N, and average degree
+![Figure2](images/image2.png)
+<p align="center"> Figure 2: Plot of ⅔ network propagation compared against graph size, N, and average degree </p>
 
 Furthermore, in Figure 3, we can see how the time to propagate to ⅔ nodes varies with respect to N and graph size. 
 
 
 
-
-Figure 3: Plot of ⅔ network propagation compared against graph size, and N
+![Figure3](images/image3.png)
+<p align="center"> Figure 3: Plot of ⅔ network propagation compared against graph size, and N </p>
 
 
 Figure 4 shows the ranges of average degree that has an effect on the network propagation time. It is for a network size of 1000 with N set to 3. In a network with average degree of 380+, we see that it just takes 1 time unit to reach ⅔ of the network.
 
 
-
-Figure 4: Effects of average degree on the time to reach ⅔ network propagation
+![Figure4](images/image1.png)
+<p align="center"> Figure 4: Effects of average degree on the time to reach ⅔ network propagation </p>
 
 
 
